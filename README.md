@@ -1,7 +1,7 @@
 - 👋 Hiya! My name NarrowSpeedster!
 - 👀 I’m interested in Game design!
 - 🌱 I’m currently learning Computer Science In Lbcc!
-- 💞️ I’m looking to collaborate on 2d game physics and just regular Python or Stuio Visual Code!! 
+- 💞️ I’m looking to collaborate on 2d game physics and just regular Python or Studio Visual Code!! 
 - 📫 If you have any questions or want to reach my email is Narrowspeedster@gmail.com, Or you can reach my discord NarrowSpeedster#0239!
 
 <!---
