@@ -1,7 +1,7 @@
-- 👋 Hiya! My name Michael Brown!
+- 👋 Hiya! My name is Michael Brown!
 - 👀 I’m interested in Game design!
 - 🌱 I’m currently learning Computer Science In Lbcc!
-- 💞️ I’m looking to collaborate on 2d game physics and just regular Python or Studio Visual Code!! 
+- 💞️ I’m looking to collaborate on 2d game physics.
 - 📫 If you have any questions reach out to my email msbrownbusiness9@gmail.com, Or you can reach my discord NarrowSpeedster#0239.
 
   I appreciate your interest!
