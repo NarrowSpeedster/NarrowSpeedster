@@ -1,10 +1,32 @@
-- 👋 Hiya! My name is Michael Brown!
-- 👀 I’m interested in Game design!
-- 🌱 I’m currently learning Computer Science In Lbcc!
-- 💞️ I’m looking to collaborate on 2d game physics.
-- 📫 If you have any questions reach out to my email msbrownbusiness9@gmail.com, Or you can reach my discord NarrowSpeedster#0239.
+- 👋 Hiya! i'm Michael Brown
 
-  I appreciate your interest!
+
+- 🎯About Me
+- • Working on a personal game project.
+- • Interested in Web Development & Software Structure,
+- • Working harder every single day 💪
+- • Love talking to People and Working Together as a Team
+
+  
+- 🌱Currently Learning
+- • System Design Fundamentals
+- • Clean code & Problem solving
+- • Open Source Collaboration
+
+- 
+- 🛠️Tech Stack
+- • Languages: Python, JavaScript
+- • Frontent: HTML, Bootstrap
+- • Tools: Git, GitHub, VS Code
+- 
+- 🙏Open to
+- •Internships & Entry-Level Opportunities
+- •Open Source Contributions
+- •Learning & Collaboration
+- 
+- 
+
+  
 
 <!---
 NarrowSpeedster/NarrowSpeedster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
